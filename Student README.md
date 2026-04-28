@@ -102,3 +102,4 @@ Mobile layout ensures the dashboard is responsive and accessible on smartphones.
 - Use card-based layout with soft shadows  
 - Keep slides visually engaging  
 
+<img width="1024" height="1536" alt="image" src=""C:\Users\Dell\Downloads\Student.png"" />
