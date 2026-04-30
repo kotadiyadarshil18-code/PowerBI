@@ -103,3 +103,8 @@ Mobile layout ensures the dashboard is responsive and accessible on smartphones.
 - Keep slides visually engaging  
 
 <img width="1024" height="1536" alt="image" src="https://github.com/kotadiyadarshil18-code/PowerBI/blob/main/Student.png?raw=true" />
+
+
+## Video Link
+
+https://drive.google.com/file/d/1GHK71uqRbGmzP2F4L4VHJJcHA1MYAP5m/view?usp=sharing
