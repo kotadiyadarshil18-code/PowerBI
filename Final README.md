@@ -1,3 +1,4 @@
+
 # 📊 Sales & Performance Analytics Dashboard (Power BI)
 
 ## 📌 Project Overview  
@@ -135,9 +136,7 @@ Implemented:
 
 ## 📷 Dashboard Preview  
 
-![Dashboard Preview](./dashboard.png)
-
-> *(Add your generated image here and rename it to `dashboard.png` in your repo)*
+<img width="1131" height="628" alt="Screenshot 2026-04-30 100940" src="https://github.com/user-attachments/assets/0ffbbc32-6194-48d4-8941-acce9b861676" />
 
 ---
 
@@ -175,4 +174,6 @@ This project demonstrates how raw data can be transformed into a **powerful anal
 ## ⭐ Support  
 
 If you like this project, give it a ⭐ on GitHub!
+
+<img width="1536" height="1024" alt="Final pr" src="https://github.com/user-attachments/assets/1a11dd30-1a31-4f67-970a-38f0b6909a89" />
 
